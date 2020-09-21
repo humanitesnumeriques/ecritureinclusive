@@ -5,7 +5,7 @@ Présentée par ses promoteurs comme un progrès social, l’écriture inclusive
 ### LES DÉFAUTS DE L'ÉCRITURE INCLUSIVE
 
 
-```markdown
+
 Les inclusivistes partent du postulat suivant: la langue aurait été "masculinisée" par des grammairiens durant des siècles et il faudrait donc remédier à l’"invisibilisation" de la femme dans la langue. C’est une conception inédite de l’histoire des langues supposant une langue originelle "pure" que la gent masculine aurait pervertie, comme si les langues étaient sciemment élaborées par les locuteurs. Quant à l"invisibilisation", c’est au mieux une métaphore mais certainement pas un fait objectif ni un concept scientifique.
 
 Nous relèverons simplement ici quelques défauts constitutifs de l’écriture inclusive et de ses principes.
@@ -18,7 +18,7 @@ Nous relèverons simplement ici quelques défauts constitutifs de l’écriture 
 - Tous les systèmes d’écriture connus ont pour vocation d’être oralisés. Or, il est impossible de lire l’écriture inclusive: cher.e.s ne se prononce pas. Le décalage graphie / phonie ne repose plus sur des conventions d’écriture, mais sur des règles morales que les programmes de synthèse vocale ne peuvent traiter et qui rendent les textes inaccessibles aux malvoyants.
 - On constate chez ceux qui la pratiquent des emplois chaotiques qui ne permettent pas de produire une norme cohérente. Outre la prolifération de formes anarchiques ("Chere.s collègu.e.s", "Cher.e.s collègue.s", etc.), l’écriture inclusive est rarement systématique: après de premières lignes "inclusives", la suite est souvent en français commun… Si des universitaires militants ne sont pas capables d’appliquer leurs propres préceptes, qui peut le faire ?
 - L’écriture inclusive, à rebours de la logique grammaticale, remet aussi radicalement en question l’usage du pluriel, qui est véritablement inclusif puisqu’il regroupe. Si au lieu de "Les candidats sont convoqués à 9h00" on écrit "Les candidats et les candidates sont convoqué.e.s à 9h00", cela signifie qu’il existe potentiellement une différence de traitement selon le sexe. En introduisant la spécification du sexe, on consacre une dissociation, ce qui est le contraire de l’inclusion. En prétendant annuler l’opposition de genre, on ne fait que la systématiser: l’écriture nouvelle aurait nécessairement un effet renforcé d’opposition des filles et des garçons, créant une exclusion réciproque et aggravant les difficultés d’apprentissage dans les petites classes.
-```
+
 
 Outre ses défauts fonctionnels, l’écriture inclusive pose des problèmes à tous ceux qui ont des difficultés d’apprentissage et, en réalité, à tous les francophones soudain privés de règles et livrés à un arbitraire moral. La circulaire ministérielle de novembre 2017 était pourtant claire et, tout en valorisant fort justement la féminisation quand elle était justifiée, demandait "ne pas faire usage de l'écriture dite inclusive": des administrations universitaires et municipales la bafouent dans un coup de force administratif permanent. L’usage est certes roi, mais que signifie un usage militant qui déconstruit les savoirs, complexifie les pratiques, s’affranchit des faits scientifiques, s’impose par la propagande et exclut les locuteurs en difficulté au nom de l’idéologie ?
 
