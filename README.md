@@ -61,7 +61,8 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 ```
 
 ### Auxquels viennent s'ajouter:
-Jean-Louis Chiss (Sorbonne Nouvelle)
-Corinne Gomila (Université Paul Valéry Montpellier 3)
-Jeanne-Marie Barbéris (Université Paul Valéry Montpellier 3)
-
+```
+- Jean-Louis Chiss (Sorbonne Nouvelle)
+- Corinne Gomila (Université Paul Valéry Montpellier 3)
+- Jeanne-Marie Barbéris (Université Paul Valéry Montpellier 3)
+```
