@@ -24,7 +24,7 @@ Outre ses défauts fonctionnels, l’écriture inclusive pose des problèmes à 
 
 Tribune publiée orginalement [sur le site de Marianne](https://www.marianne.net/debattons/tribunes/une-ecriture-excluante-qui-s-impose-par-la-propagande-32-linguistes-listent-les).
 
-### auteurs
+### Auteurs
 
 Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Franck Neveu (Sorbonne Université)`, `François Rastier (CNRS)`, `Jean Szlamowicz (Université de Bourgogne)`.
 
@@ -60,5 +60,5 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Anne Zribi-Hertz (Paris 8- St Denis)
 ```
 
-### Auxquels viennent s'ajouter
+### Auxquels viennent s'ajouter:
 
