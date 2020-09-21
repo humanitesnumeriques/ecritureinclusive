@@ -65,4 +65,5 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Jean-Louis Chiss (Sorbonne Nouvelle)
 - Corinne Gomila (Université Paul Valéry Montpellier 3)
 - Jeanne-Marie Barbéris (Université Paul Valéry Montpellier 3)
+- Fabrice Issac (Université Sorbonne Paris Nord)
 ```
