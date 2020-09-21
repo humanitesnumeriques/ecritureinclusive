@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 
+github:
+  is_project_page: false
+
 title: Tribune collective des linguistes
 description: Outre ses défauts fonctionnels, l’écriture inclusive pose des problèmes à ceux qui ont des difficultés d’apprentissage.
