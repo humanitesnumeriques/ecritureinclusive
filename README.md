@@ -60,5 +60,5 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Anne Zribi-Hertz (Paris 8- St Denis)
 ```
 
-### auxquels viennent s'ajouter
+### Auxquels viennent s'ajouter
 
