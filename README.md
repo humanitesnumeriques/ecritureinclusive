@@ -63,9 +63,12 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 ### Auxquels viennent s'ajouter:
 ```
 - Jean-Louis Chiss (Sorbonne Nouvelle)
-- Corinne Gomila (Université Paul Valéry Montpellier 3)
-- Jeanne-Marie Barbéris (Université Paul Valéry Montpellier 3)
+- Corinne Gomila (Université  Montpellier )
+- Jeanne-Marie Barbéris (Université  Montpellier) 
 - Fabrice Issac (Université Sorbonne Paris Nord)
 - Pierre-André Buvet (Université Sorbonne Paris Nord)
 - Aurelio PRINCIPATO (Università degli Studi Roma Tre)
 - Monique Lambert (Université Paris 8)
+-Jean-Jacques Vincensini (Université François Rabelais-CESR )
+ 
+
