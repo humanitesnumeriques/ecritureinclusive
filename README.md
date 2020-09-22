@@ -67,4 +67,4 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Jeanne-Marie Barbéris (Université Paul Valéry Montpellier 3)
 - Fabrice Issac (Université Sorbonne Paris Nord)
 - Pierre-André Buvet (Université Sorbonne Paris Nord)
-```
+- Aurelio PRINCIPATO (Università degli Studi Roma Tre)
