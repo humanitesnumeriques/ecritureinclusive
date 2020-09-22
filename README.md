@@ -68,3 +68,4 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Fabrice Issac (Université Sorbonne Paris Nord)
 - Pierre-André Buvet (Université Sorbonne Paris Nord)
 - Aurelio PRINCIPATO (Università degli Studi Roma Tre)
+- Monique Lambert (Université Paris 8)
