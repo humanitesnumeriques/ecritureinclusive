@@ -72,5 +72,6 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Jean-Jacques Vincensini (Université François Rabelais-CESR )
 - Marie-Louise Moreau (Université de Mons)
 - Mariagrazia Margarito (Université de Turin)
- 
+- Stella Retali-Medori (Université de Corse Pasquale Paoli)
+
 
