@@ -70,6 +70,7 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Aurelio PRINCIPATO (Università degli Studi Roma Tre)
 - Monique Lambert (Université Paris 8)
 - Jean-Jacques Vincensini (Université François Rabelais-CESR )
-- Marie-Louise Moreau (Université de Mons).
+- Marie-Louise Moreau (Université de Mons)
+- Mariagrazia Margarito (Université de Turin)
  
 
