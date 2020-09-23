@@ -29,7 +29,7 @@ Tribune publiée orginalement [sur le site de Marianne](https://www.marianne.net
 Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Franck Neveu (Sorbonne Université)`, `François Rastier (CNRS)`, `Jean Szlamowicz (Université de Bourgogne)`.
 
 ### Signée orginellement par les linguistes :
-```
+
 - Jacqueline Authier-Revuz (Sorbonne nouvelle)
 - Mathieu Avanzi (Sorbonne Université)
 - Samir Bajric (Université de Bourgogne)
@@ -58,10 +58,10 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Georges-Daniel Véronique (Université d’Aix-Marseille)
 - Chantal Wionet (Université d’Avignon)
 - Anne Zribi-Hertz (Paris 8- St Denis)
-```
+
 
 ### Auxquels viennent s'ajouter:
-```
+
 - Jean-Louis Chiss (Sorbonne Nouvelle)
 - Corinne Gomila (Université  Montpellier )
 - Jeanne-Marie Barbéris (Université  Montpellier) 
