@@ -73,7 +73,8 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Marie-Louise Moreau (Université de Mons)
 - Mariagrazia Margarito (Université de Turin)
 - Stella Retali-Medori (Université de Corse Pasquale Paoli)
-- Dominique Lafontaine (Professeure ordinaire Université de Liège, Directrice du Service d’Analyse des Systèmes et des Pratiques d’Enseignement (aSPe) - Co-Présidente de l'Unité de recherche Evaluation et qualité de l'enseignement/Evaluation and quality of education (EQUALE))
+- Dominique Lafontaine (Professeure ordinaire Université de Liège, Directrice du Service d’Analyse des Systèmes et des Pratiques d’Enseignement (aSPe) - Co-Présidente de l'Unité de recherche Evaluation et qualité de l'enseignement/Evaluation and quality of education (EQUALE
+- Guy Jucquois (Univeristé Catholique Louvain)
 
 
 
