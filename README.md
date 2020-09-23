@@ -75,7 +75,7 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Stella Retali-Medori (Université de Corse Pasquale Paoli)
 - Dominique Lafontaine (Professeure ordinaire Université de Liège, Directrice du Service d’Analyse des Systèmes et des Pratiques d’Enseignement (aSPe) - Co-Présidente de l'Unité de recherche Evaluation et qualité de l'enseignement/Evaluation and quality of education (EQUALE
 - Guy Jucquois (Univeristé Catholique Louvain)
-
+- Georges Legros, Professeur émérite de l'Université de Namur, Président du Conseil de la langue française et co-auteur avec Marie-Louise Moreau d'*Orthographe* : qui a peur de la réforme ? (Service de la langue française, 2012), membre EROFA, dirigé par Claude Gruaz.
 
 
 
