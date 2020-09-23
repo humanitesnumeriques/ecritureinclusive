@@ -69,6 +69,7 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Pierre-André Buvet (Université Sorbonne Paris Nord)
 - Aurelio PRINCIPATO (Università degli Studi Roma Tre)
 - Monique Lambert (Université Paris 8)
--Jean-Jacques Vincensini (Université François Rabelais-CESR )
+- Jean-Jacques Vincensini (Université François Rabelais-CESR )
+- Marie-Louise Moreau (Université de Mons).
  
 
