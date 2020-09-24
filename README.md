@@ -78,6 +78,7 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Georges Legros, Professeur émérite de l'Université de Namur, Président du Conseil de la langue française et co-auteur avec Marie-Louise Moreau d'*Orthographe* : qui a peur de la réforme ? (Service de la langue française, 2012), membre EROFA, dirigé par Claude Gruaz.
 - Guy Laflèche (Université de Montréal)
 - Catherine FUCHS (Directrice de recherche émérite au CNRS Laboratoire LATTICE (UMR 8094)
+- Martine Willems (Prof. de linguistique historique Université Saint-Louis  Bruxelles)
 
 
 
