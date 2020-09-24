@@ -73,12 +73,12 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Marie-Louise Moreau (Université de Mons)
 - Mariagrazia Margarito (Université de Turin)
 - Stella Retali-Medori (Université de Corse Pasquale Paoli)
-- Dominique Lafontaine (Professeure ordinaire Université de Liège, Directrice du Service d’Analyse des Systèmes et des Pratiques d’Enseignement (aSPe) - Co-Présidente de l'Unité de recherche Evaluation et qualité de l'enseignement/Evaluation and quality of education (EQUALE
+- Dominique Lafontaine ( Université de Liège)
 - Guy Jucquois (Univeristé Catholique Louvain)
-- Georges Legros, Professeur émérite de l'Université de Namur, Président du Conseil de la langue française et co-auteur avec Marie-Louise Moreau d'*Orthographe* : qui a peur de la réforme ? (Service de la langue française, 2012), membre EROFA, dirigé par Claude Gruaz.
+- Georges Legros (Université de Namur)
 - Guy Laflèche (Université de Montréal)
-- Catherine FUCHS (Directrice de recherche émérite au CNRS Laboratoire LATTICE (UMR 8094)
-- Martine Willems (Prof. de linguistique historique Université Saint-Louis  Bruxelles)
+- Catherine FUCHS ( Laboratoire LATTICE (UMR 8094)
+- Martine Willems ( Université Saint-Louis  Bruxelles)
 
 
 
