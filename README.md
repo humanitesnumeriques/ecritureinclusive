@@ -79,7 +79,8 @@ Tribune rédigée par les linguistes `Yana Grinshpun (Sorbonne Nouvelle)`, `Fran
 - Guy Laflèche (Université de Montréal)
 - Catherine FUCHS ( Laboratoire LATTICE (UMR 8094)
 - Martine Willems ( Université Saint-Louis  Bruxelles)
-- Jacques Maurais (Ancien coordonnateur de la recherche à l'Office québécois de la langue française)
+- Jacques Maurais (Ancien coordonnateur de la recherche à l'Office québécois de la langue française) 
+- Silvia Lucchini (Université catholique de Louvain)
 
 
 
